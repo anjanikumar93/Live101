@@ -1,0 +1,18 @@
+.home {
+    color: black;
+}
+.log_background {
+    background-image: url('./img/live.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.logo {
+    width: 5em;
+    height:5em;
+}
